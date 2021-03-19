@@ -1,0 +1,3 @@
+include ':loggerlibrary'
+include ':app'
+rootProject.name = "Magick Logger"
